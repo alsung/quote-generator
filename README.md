@@ -16,7 +16,7 @@ Generate random motivational or inspirational quotes with the click of a button.
  - Forismatic getQuote
 
 ## Resources
-Quotes API URL: https://type.fit/api/quotes, http://api.forismatic.com/api/1.0/
-Background wallpaper: https://www.heropatterns.com/
-Fonts: https://fonts.google.com/
+Quotes API URL: https://type.fit/api/quotes, http://api.forismatic.com/api/1.0/\
+Background wallpaper: https://www.heropatterns.com/\
+Fonts: https://fonts.google.com/\
 Tweet Button Integration Documentation: https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
